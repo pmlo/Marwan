@@ -37,7 +37,7 @@ bot.on("message", (message) => {
             setTimeout(function(){
                 if(member.id == bot.user.id) return;
                 console.log(`DMing ${member.user.username}`);
-                member.send(`**Salut mon ami, rejoint vite le serveur __La France De Fortnite__ \n\n https://discord.gg/XY72fga \n\n Je t'attends , A tout de suite** 😃`);
+                member.send(`**Salut mon ami, rejoint vite le serveur __💋 Bisous__ \n\n https://discord.gg/aeY4fe \n\n Je t'attends , A tout de suite** 😃`);
             }, 30000);
         });
     }
